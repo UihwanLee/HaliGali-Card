@@ -23,11 +23,11 @@ Python tkinter 라이브러리를 이용한 할리갈리 보드 게임입니다.
 [게임 사진]:
 
 01  
-![project_example](./project_example/project_example1.png)  
+![project_example](./project_example/haligali_example1.png)  
 
 02  
-![project_example](./project_example/project_example2.png)  
+![project_example](./project_example/haligali_example2.png)  
 
 03
-![project_example](./project_example/project_example3.png)  
+![project_example](./project_example/haligali_example3.png)  
 
